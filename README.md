@@ -1,6 +1,6 @@
 ## krisleech
 
-A very simple ZSH theme optimized for Git. Less is more.
+A very simple theme optimized for Git. Less is more.
 
 ![krisleech theme](https://f.cloud.github.com/assets/66143/930316/732ea576-0008-11e3-964c-98410709d00c.png)
 
